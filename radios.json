@@ -1,0 +1,6 @@
+[
+  {"name": "Classic FM", "url": "http://stream.classicfm.com/stream.mp3"},
+  {"name": "Jazz Cafe", "url": "http://stream.jazzcafe.com/stream.mp3"},
+  {"name": "Radio Energy", "url": "http://stream.radioenergy.com/stream.mp3"},
+  {"name": "Relax FM", "url": "http://stream.relaxfm.com/stream.mp3"}
+]

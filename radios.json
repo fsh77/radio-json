@@ -1,6 +1,6 @@
 [
-  {"name": "Classic FM", "url": "http://ice1.somafm.com/groovesalad-128-mp3"},
-  {"name": "Jazz Cafe", "url": "http://pub1.difm.com/di_chillout_mp3"},
-  {"name": "Radio Energy", "url": "http://stream.keanradio.com:8000/kean.mp3"},
+  {"name": "Classic FM", "url": "http://stream.dancewave.online:8080/dance.mp3"},
+  {"name": "Jazz Cafe", "url": "http://stream.radioparadise.com/flac"},
+  {"name": "Radio Energy", "url": "http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/"},
   {"name": "Relax FM", "url": "http://46.20.7.103:8040/;stream.mp3"}
 ]

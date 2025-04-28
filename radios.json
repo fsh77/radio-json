@@ -1,6 +1,42 @@
 [
-  {"name": "Classic FM", "url": "http://stream.dancewave.online:8080/dance.mp3"},
-  {"name": "Jazz Cafe", "url": "http://stream.radioparadise.com/flac"},
-  {"name": "Radio Energy", "url": "http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/"},
-  {"name": "Relax FM", "url": "http://46.20.7.103:8040/;stream.mp3"}
+  {
+    "name": "Kral Pop",
+    "url": "http://provisioning.streamtheworld.com/pls/KRAL_POP.pls"
+  },
+  {
+    "name": "Power FM",
+    "url": "https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8"
+  },
+  {
+    "name": "Best FM",
+    "url": "http://46.20.7.126/;stream.mp3"
+  },
+  {
+    "name": "Radyo Bozcaada",
+    "url": "https://radyobozcaada.80.yayin.com.tr"
+  },
+  {
+    "name": "Lig Radyo",
+    "url": "https://ligradyo.radyotvonline.net/ligradyo"
+  },
+  {
+    "name": "A Spor",
+    "url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Gol",
+    "url": "https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/playlist.m3u8"
+  },
+  {
+    "name": "Radyo Spor",
+    "url": "http://46.20.7.103:8040/;stream.mp3"
+  },
+  {
+    "name": "TRT Radyo 1",
+    "url": "https://radio-trtradyo1.live.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "NTV Radyo",
+    "url": "http://ntvrdwmp.radyotvonline.com/"
+  }
 ]
